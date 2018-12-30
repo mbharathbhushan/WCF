@@ -1,0 +1,7 @@
+D:\WCF\03-WCFService\03-WCFService\bin\Debug\03-WCFService.dll.config
+D:\WCF\03-WCFService\03-WCFService\bin\Debug\03-WCFService.dll
+D:\WCF\03-WCFService\03-WCFService\bin\Debug\03-WCFService.pdb
+D:\WCF\03-WCFService\03-WCFService\obj\Debug\03-WCFService.csprojAssemblyReference.cache
+D:\WCF\03-WCFService\03-WCFService\obj\Debug\03-WCFService.csproj.CoreCompileInputs.cache
+D:\WCF\03-WCFService\03-WCFService\obj\Debug\03-WCFService.dll
+D:\WCF\03-WCFService\03-WCFService\obj\Debug\03-WCFService.pdb

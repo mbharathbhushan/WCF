@@ -1,0 +1,11 @@
+D:\WCF\03-WCFService\HelloConsole\bin\Debug\HelloConsole.exe.config
+D:\WCF\03-WCFService\HelloConsole\bin\Debug\HelloConsole.exe
+D:\WCF\03-WCFService\HelloConsole\bin\Debug\HelloConsole.pdb
+D:\WCF\03-WCFService\HelloConsole\bin\Debug\03-WCFService.dll
+D:\WCF\03-WCFService\HelloConsole\bin\Debug\03-WCFService.pdb
+D:\WCF\03-WCFService\HelloConsole\bin\Debug\03-WCFService.dll.config
+D:\WCF\03-WCFService\HelloConsole\obj\Debug\HelloConsole.csprojAssemblyReference.cache
+D:\WCF\03-WCFService\HelloConsole\obj\Debug\HelloConsole.csproj.CoreCompileInputs.cache
+D:\WCF\03-WCFService\HelloConsole\obj\Debug\HelloConsole.csproj.CopyComplete
+D:\WCF\03-WCFService\HelloConsole\obj\Debug\HelloConsole.exe
+D:\WCF\03-WCFService\HelloConsole\obj\Debug\HelloConsole.pdb
