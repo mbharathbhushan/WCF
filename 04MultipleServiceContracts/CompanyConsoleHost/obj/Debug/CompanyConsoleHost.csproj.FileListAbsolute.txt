@@ -1,0 +1,11 @@
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\bin\Debug\CompanyConsoleHost.exe.config
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\bin\Debug\CompanyConsoleHost.exe
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\bin\Debug\CompanyConsoleHost.pdb
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\bin\Debug\04MultipleServiceContracts.dll
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\bin\Debug\04MultipleServiceContracts.pdb
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\bin\Debug\04MultipleServiceContracts.dll.config
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\obj\Debug\CompanyConsoleHost.csprojAssemblyReference.cache
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\obj\Debug\CompanyConsoleHost.csproj.CoreCompileInputs.cache
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\obj\Debug\CompanyConsoleHost.csproj.CopyComplete
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\obj\Debug\CompanyConsoleHost.exe
+D:\WCF\04MultipleServiceContracts\CompanyConsoleHost\obj\Debug\CompanyConsoleHost.pdb

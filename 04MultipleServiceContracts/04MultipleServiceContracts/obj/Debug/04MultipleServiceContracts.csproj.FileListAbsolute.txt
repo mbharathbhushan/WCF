@@ -1,0 +1,7 @@
+D:\WCF\04MultipleServiceContracts\04MultipleServiceContracts\bin\Debug\04MultipleServiceContracts.dll.config
+D:\WCF\04MultipleServiceContracts\04MultipleServiceContracts\bin\Debug\04MultipleServiceContracts.dll
+D:\WCF\04MultipleServiceContracts\04MultipleServiceContracts\bin\Debug\04MultipleServiceContracts.pdb
+D:\WCF\04MultipleServiceContracts\04MultipleServiceContracts\obj\Debug\04MultipleServiceContracts.csprojAssemblyReference.cache
+D:\WCF\04MultipleServiceContracts\04MultipleServiceContracts\obj\Debug\04MultipleServiceContracts.csproj.CoreCompileInputs.cache
+D:\WCF\04MultipleServiceContracts\04MultipleServiceContracts\obj\Debug\04MultipleServiceContracts.dll
+D:\WCF\04MultipleServiceContracts\04MultipleServiceContracts\obj\Debug\04MultipleServiceContracts.pdb

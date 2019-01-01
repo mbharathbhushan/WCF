@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace _04WebApplications.Controllers
+{
+    public class HomeController : Controller
+    {
+        public ActionResult Index()
+        {
+            PublicService.CompanyPublicServiceClient companyPublicServiceClient = new PublicService.CompanyPublicServiceClient("BasicHttpBinding_ICompanyPublicService");
+            ViewBag.PublicInformation = companyPublicServiceClient.GetPublicInformation();
+            PublicService.CompanyConfidentialServiceClient companyConfidentialServiceClient = new PublicService.CompanyConfidentialServiceClient("NetTcpBinding_ICompanyConfidentialService");
+            ViewBag.ConfidentialInformation = companyConfidentialServiceClient.GetConfidentialInformation();
+            return View();
+        }
+
+        public ActionResult About()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
+
+        public ActionResult Contact()
+        {
+            ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+    }
+}
